@@ -5,6 +5,7 @@ flutter 练手
 
 1：包应用 
 在 pubspec.yaml文件中添加english_words: ^3.1.0；
+
 在lib下main.dart中导入import 'package:english_words/english_words.dart';
 
 2：listview
